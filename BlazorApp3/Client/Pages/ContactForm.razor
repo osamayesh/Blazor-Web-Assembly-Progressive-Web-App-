@@ -1,0 +1,57 @@
+﻿@page "/ContactForm"
+@using BlazorApp3.Shared
+
+@using BlazorApp3.Shared.Models
+<h3>ContactForm</h3>
+
+<div class="modal fade" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="contactModalLabel">Contact Form</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <label for="firstNameInput" class="form-label">First Name</label>
+                    <input type="text" class="form-control" id="firstNameInput" required />
+                </div>
+                <div class="mb-3">
+                    <label for="lastNameInput" class="form-label">Last Name</label>
+                    <input type="text" class="form-control" id="lastNameInput" required />
+                </div>
+                <div class="mb-3">
+                    <label for="emailInput" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="emailInput" required />
+                </div>
+                <div class="mb-3">
+                    <label for="phoneNumberInput" class="form-label">Phone Number</label>
+                    <input type="text" class="form-control" id="phoneNumberInput" required />
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" @onclick="SaveContact">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter] public EventCallback<Contact> OnContactCreated { get; set; }
+    [Parameter] public EventCallback<Contact> OnContactUpdated { get; set; }
+
+    private Contact _contact = new Contact();
+
+    private void SaveContact()
+    {
+        if (_contact.Id == 0)
+        {
+            OnContactCreated.InvokeAsync(_contact);
+        }
+        else
+        {
+            OnContactUpdated.InvokeAsync(_contact);
+        }
+    }
+}

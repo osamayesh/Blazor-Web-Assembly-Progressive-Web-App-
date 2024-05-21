@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\frisrt project\BlazorApp3\BlazorApp3\Shared\bin\Debug\net6.0\BlazorApp3.Shared.deps.json
+C:\Users\user\source\repos\frisrt project\BlazorApp3\BlazorApp3\Shared\bin\Debug\net6.0\BlazorApp3.Shared.dll
+C:\Users\user\source\repos\frisrt project\BlazorApp3\BlazorApp3\Shared\bin\Debug\net6.0\BlazorApp3.Shared.pdb
+C:\Users\user\source\repos\frisrt project\BlazorApp3\BlazorApp3\Shared\obj\Debug\net6.0\BlazorApp3.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\frisrt project\BlazorApp3\BlazorApp3\Shared\obj\Debug\net6.0\BlazorApp3.Shared.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\frisrt project\BlazorApp3\BlazorApp3\Shared\obj\Debug\net6.0\BlazorApp3.Shared.AssemblyInfo.cs
+C:\Users\user\source\repos\frisrt project\BlazorApp3\BlazorApp3\Shared\obj\Debug\net6.0\BlazorApp3.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\frisrt project\BlazorApp3\BlazorApp3\Shared\obj\Debug\net6.0\BlazorApp3.Shared.dll
+C:\Users\user\source\repos\frisrt project\BlazorApp3\BlazorApp3\Shared\obj\Debug\net6.0\refint\BlazorApp3.Shared.dll
+C:\Users\user\source\repos\frisrt project\BlazorApp3\BlazorApp3\Shared\obj\Debug\net6.0\BlazorApp3.Shared.pdb
+C:\Users\user\source\repos\frisrt project\BlazorApp3\BlazorApp3\Shared\obj\Debug\net6.0\ref\BlazorApp3.Shared.dll

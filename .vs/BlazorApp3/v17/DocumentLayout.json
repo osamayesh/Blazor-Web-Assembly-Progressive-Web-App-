@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F727A94-1E28-44CC-83C1-75CC5310E781}|BlazorApp3\\Client\\BlazorApp3.Client.csproj|c:\\users\\user\\source\\repos\\frisrt project\\blazorapp3\\blazorapp3\\client\\pages\\contactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F727A94-1E28-44CC-83C1-75CC5310E781}|BlazorApp3\\Client\\BlazorApp3.Client.csproj|solutionrelative:blazorapp3\\client\\pages\\contactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904B9E63-599E-481D-AB8C-771BFABD9F27}|BlazorApp3\\Shared\\BlazorApp3.Shared.csproj|c:\\users\\user\\source\\repos\\frisrt project\\blazorapp3\\blazorapp3\\shared\\models\\contactdatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904B9E63-599E-481D-AB8C-771BFABD9F27}|BlazorApp3\\Shared\\BlazorApp3.Shared.csproj|solutionrelative:blazorapp3\\shared\\models\\contactdatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F727A94-1E28-44CC-83C1-75CC5310E781}|BlazorApp3\\Client\\BlazorApp3.Client.csproj|c:\\users\\user\\source\\repos\\frisrt project\\blazorapp3\\blazorapp3\\client\\pages\\contact list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F727A94-1E28-44CC-83C1-75CC5310E781}|BlazorApp3\\Client\\BlazorApp3.Client.csproj|solutionrelative:blazorapp3\\client\\pages\\contact list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904B9E63-599E-481D-AB8C-771BFABD9F27}|BlazorApp3\\Shared\\BlazorApp3.Shared.csproj|c:\\users\\user\\source\\repos\\frisrt project\\blazorapp3\\blazorapp3\\shared\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904B9E63-599E-481D-AB8C-771BFABD9F27}|BlazorApp3\\Shared\\BlazorApp3.Shared.csproj|solutionrelative:blazorapp3\\shared\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F727A94-1E28-44CC-83C1-75CC5310E781}|BlazorApp3\\Client\\BlazorApp3.Client.csproj|c:\\users\\user\\source\\repos\\frisrt project\\blazorapp3\\blazorapp3\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F727A94-1E28-44CC-83C1-75CC5310E781}|BlazorApp3\\Client\\BlazorApp3.Client.csproj|solutionrelative:blazorapp3\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F727A94-1E28-44CC-83C1-75CC5310E781}|BlazorApp3\\Client\\BlazorApp3.Client.csproj|c:\\users\\user\\source\\repos\\frisrt project\\blazorapp3\\blazorapp3\\client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1F727A94-1E28-44CC-83C1-75CC5310E781}|BlazorApp3\\Client\\BlazorApp3.Client.csproj|solutionrelative:blazorapp3\\client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F727A94-1E28-44CC-83C1-75CC5310E781}|BlazorApp3\\Client\\BlazorApp3.Client.csproj|c:\\users\\user\\source\\repos\\frisrt project\\blazorapp3\\blazorapp3\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F727A94-1E28-44CC-83C1-75CC5310E781}|BlazorApp3\\Client\\BlazorApp3.Client.csproj|solutionrelative:blazorapp3\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22AB646-211A-4AFF-A9F5-0467183568BB}|BlazorApp3\\Server\\BlazorApp3.Server.csproj|c:\\users\\user\\source\\repos\\frisrt project\\blazorapp3\\blazorapp3\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22AB646-211A-4AFF-A9F5-0467183568BB}|BlazorApp3\\Server\\BlazorApp3.Server.csproj|solutionrelative:blazorapp3\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F727A94-1E28-44CC-83C1-75CC5310E781}|BlazorApp3\\Client\\BlazorApp3.Client.csproj|c:\\users\\user\\source\\repos\\frisrt project\\blazorapp3\\blazorapp3\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F727A94-1E28-44CC-83C1-75CC5310E781}|BlazorApp3\\Client\\BlazorApp3.Client.csproj|solutionrelative:blazorapp3\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Client\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "BlazorApp3\\Client\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Client\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "BlazorApp3\\Client\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-21T19:30:48.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactForm.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Client\\Pages\\ContactForm.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Client\\Pages\\ContactForm.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Client\\Pages\\ContactForm.razor",
+              "RelativeToolTip": "BlazorApp3\\Client\\Pages\\ContactForm.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:06:40.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact List.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Client\\Pages\\Contact List.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Client\\Pages\\Contact List.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Client\\Pages\\Contact List.razor",
+              "RelativeToolTip": "BlazorApp3\\Client\\Pages\\Contact List.razor",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAJYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T18:41:39.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Client\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Client\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorApp3\\Client\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T18:38:11.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Client\\_Imports.razor",
+              "RelativeToolTip": "BlazorApp3\\Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T18:29:13.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp3\\Client\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Client\\Program.cs",
+              "RelativeToolTip": "BlazorApp3\\Client\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:26:09.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactDataStorage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Shared\\Models\\ContactDataStorage.cs",
+              "RelativeDocumentMoniker": "BlazorApp3\\Shared\\Models\\ContactDataStorage.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Shared\\Models\\ContactDataStorage.cs",
+              "RelativeToolTip": "BlazorApp3\\Shared\\Models\\ContactDataStorage.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:23:40.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Shared\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "BlazorApp3\\Shared\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Shared\\Models\\Contact.cs",
+              "RelativeToolTip": "BlazorApp3\\Shared\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:22:24.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp3\\Server\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\frisrt project\\BlazorApp3\\BlazorApp3\\Server\\Program.cs",
+              "RelativeToolTip": "BlazorApp3\\Server\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:33:53.525Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
